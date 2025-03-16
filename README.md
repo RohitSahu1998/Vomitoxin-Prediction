@@ -1,4 +1,10 @@
 # Vomitoxin-Prediction
+The dataset used in this project contains hyperspectral reflectance values along with a target variable vomitoxin_ppb (DON concentration in parts per billion).
+Total Samples: ~2000 (approximate)
+Total Features: 449
+448 Spectral Features → Represent reflectance values at different wavelengths.
+1 Target Variable (vomitoxin_ppb) → Indicates DON concentration in grains.
+
 1️⃣ Preprocessing Steps & Rationale
 The dataset consists of hyperspectral reflectance values across multiple wavelengths, with the target variable being vomitoxin concentration (DON in ppb). The following preprocessing steps were applied:
 
